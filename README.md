@@ -17,19 +17,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="SOKURI_CODE | blog" width="48px" src="https://img.icons8.com/?size=100&id=JrSdCS4yeykt&format=png&color=000000" />][website]
-[<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
-[<img align="left" alt="SOKURI_CODE | Twitter" width="48px" src="https://img.icons8.com/color/48/000000/twitter-squared.png" />][twitter]
-[<img align="left" alt="SOKURI_CODE | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
-
-[website]: https://blog.naver.com/jbmyellow
-[twitter]: https://twitter.com/
-[youtube]: https://youtube.com/
-[linkedin]: https://linkedin.com/in/
-[instagram]: https://instagram.com/_sokuri
-
-
 <!--
 **kimjisu987/kimjisu987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
